@@ -1,0 +1,39 @@
+[
+  
+    {
+      "project_name": "MegaZap Business 1.0",
+      "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/handymate.png",
+      "description": "A main website of megazap business, this site is the best hot site version 1.0 that i made to megazap. User can fill a form and this data is send to megazap aplication after this, page is redirect to megazap business whatsapp.",
+      "source_link": "https://github.com/jsa-eriques/megazap-business-1.0",
+      "live_link": "https://megazap-ads-new-1-1.vercel.app/",
+      "tech_stack": ["React","Tailwind","CSS"]
+    },
+  
+    {
+      "project_name": "MegaZap Business Franquias 1.0",
+      "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/for.png",
+      "description": "Food-On-Rails is a website for managing food inventory and creating/publishing recipes. Ideal for food enthusiasts seeking organization and recipe inspiration. It has a user authentication system with special privileges.",
+      "source_link": "https://github.com/PrantoshB/Food-On-Rails",
+      "live_link": "https://food-on-rail.onrender.com/",
+      "tech_stack": ["React","Tailwind","CSS"]
+    },
+
+    {
+      "project_name": "MegaZap Business 2.0",
+      "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/handymate.png",
+      "description": "A Full-Stack web application, where users can reserve home services like Electrician, Plumber, Gardening etc. User can also delete the reservation. The Admin can add new services and delete existing services.",
+      "source_link": "https://github.com/PrantoshB/HandyMate-Frontend",
+      "live_link": "https://deploy--fabulous-horse-dfd6cb.netlify.app/",
+      "tech_stack": ["React","Tailwind","CSS"]
+    },
+  
+    {
+      "project_name": "Bruno Agro",
+      "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/for.png",
+      "description": "Food-On-Rails is a website for managing food inventory and creating/publishing recipes. Ideal for food enthusiasts seeking organization and recipe inspiration. It has a user authentication system with special privileges.",
+      "source_link": "https://github.com/PrantoshB/Food-On-Rails",
+      "live_link": "https://food-on-rail.onrender.com/",
+      "tech_stack": ["React","Tailwind","CSS"]
+    },
+  
+]
